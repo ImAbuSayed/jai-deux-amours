@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/jai-deux-amours/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For J'ai Deux Amours](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/jai-deux-amours/) |
+| **Get License** | [Request Licensing for J'ai Deux Amours](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/jai-deux-amours/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> J'ai deux amours, l'ivresse de la nuit et toi
+> Baby, don't stop, je suis sous tes lois
+> Sous les néons de Paris, ton parfum me rassure
+> Dans cette House music, tu es ma seule aventure
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
