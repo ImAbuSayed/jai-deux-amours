@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - J'ai Deux Amours
+
+This log tracks the cryptographic history and versioning for the song **J'ai Deux Amours** (jai-deux-amours).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-25T11:39:16.251036 | `v1` | `9998c5d3d48bfa20c9b2b01291fe79d896a947b6a0c6482cc553b1e7d6536e81` | `2f7f7611e8869a15ca10de2d447c52f7322afc71a98064d627af57e2caf59cfd` | `2026-06-25_jai-deux-amours-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
